@@ -168,6 +168,7 @@ card-info-img{
     display:block;
 }
 .audio-holder{
+    display: none;
     width:540px;
 }
 .audio-detail{
