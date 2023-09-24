@@ -416,3 +416,30 @@ card-big{
 .mob-btn{
     display: none;
 }
+.img-card-3{background-image:url(img/card-3.png);}
+.img-card-4{background-image:url(img/card-4.png);}
+
+.img-card-4{
+    position: relative;
+    bottom:200px;
+    left:270px
+}
+.img-card-3{
+    position: relative;
+    bottom:200px;
+    right: 7px;
+    
+}
+.info-container-2{
+    position: relative;
+    bottom: 180px;
+}
+.left{
+    position: relative;
+    left:60px
+}
+.info-container-3{
+    position: relative;
+    bottom: 180px;
+    left:280px
+}
